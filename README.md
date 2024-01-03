@@ -1,8 +1,17 @@
 <h1>Hello World! 🌎</h1>
 
 <h2>Who am I? 🤔</h2>
-Motivated professional with expertise in data, sales, and leadership. Specialized in Python (Pandas and Scikit-Learn), Machine Learning, Power BI, Excel, and SQL. Previously worked as Sales Manager at Ambev, leading teams and implementing strategies to boost sales. Currently pursuing a Data Science degree at Escola DNC, holds a Postgraduate degree in People Management from SENAC - São Paulo, and is certified as a Data Scientist. Holds a Bachelor's degree in Mechanical Engineering, with prior experience as a Sales Supervisor and Intern in Price and Results Data at the same company.
+Motivated data professional with experience in data analysis, machine learning, and leadership. My expertise lies in Python (Pandas and Scikit-Learn), Machine Learning, Power BI, Excel, and SQL. Former Sales Manager at Ambev, where I successfully led teams and implemented strategies to drive sales growth. Currently pursuing a Data Science degree at Escola DNC, I also hold a Postgraduate degree in People Management from SENAC - São Paulo and a Bachelor's degree in Mechanical Engineering.
 <hr>
+<h2>Skills 🚀</h2> 
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-Learn, XGBoost
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Database:** SQL Server, MySQL
+- **Tools:** Excel, Metabase
+- **Others:** Regression, Classification, Time Series Analysis
 <h2> Main Projects 🗠</h2>
 <h3> Data Visualization 📊</h3>
 <a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank" rel = "external"> <li>Microssoft Excel <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> </li>  </a>
@@ -14,6 +23,37 @@ Motivated professional with expertise in data, sales, and leadership. Specialize
 <li>Regression</li>
 <li>Classification</li>
 <li>Time Series</li>
+<hr>
+<h2>Education 🎓</h2>
+
+- **Currently Pursuing:** Data Science degree at Escola DNC
+- **Postgraduate:** People Management, SENAC - São Paulo
+- **Undergraduation:** Mechanical Engineering
+
+<hr>
+<h2>Experience 💼</h2> 
+
+- **Sales Manager, Ambev:**
+  - Led and motivated teams to implement successful sales strategies.
+  - Analyzed sales data to identify opportunities and drive business decisions.
+
+- **Sales Supervisor, Ambev:**
+  - Leading a team of 5 Sales Representatives and 1 Promoter, I was responsible for creating new service sectors in three cities in the interior of Pernambuco. I carried out the team restructuring and optimized visit routes in the new service areas.
+ 
+- **Data Analyst, Ambev:**
+  - I developed follow-ups, analyses, and detailed information, including the performance of sales teams, share analysis, volume, and productivity indicators. I conducted the first qualification of the Caruaru Distribution Center (CDD) in the Ambev Excellence System (SPO) using Excel.
+ 
+- **Data Analytics Intern, Ambev:**
+  - I evaluated pricing strategies, collected and analyzed market data, identified trends, and proposed solutions to improve the company's sales performance.
+ 
+<hr>
+
+<h2>Let's Connect! 🌐</h2> 
+
+- LinkedIn: https://www.linkedin.com/in/pedro-natanael/
+- Email: pedronatanaelfs@gmail.com
+
+Feel free to reach out for collaboration, discussions, or any exciting data projects! 🚀
 <!---
 pedronatanaelfs/pedronatanaelfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
