@@ -14,8 +14,8 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Others:** Regression, Classification, Time Series Analysis
 <h2> Main Projects 🗠</h2>
 <h3> Data Visualization 📊</h3>
-<a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank" rel = "external"> <li>Microssoft Excel <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> </li>  </a>
-<li>Microssoft Power BI <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> </li>
+<a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank"> <li>Microssoft Excel <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> </li>  </a>
+<a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li>Microssoft Power BI <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> </li> </a>
 <li>Metabase <img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> </li>
 <li>SQL <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="perl" width="20" height="20" /> </li>
 <hr>
