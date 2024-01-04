@@ -20,8 +20,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 <hr>
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
 <a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li>Regression Model</li> </a>
-<li>Classification</li>
-<li>Time Series</li>
+<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li>Data Cleaning</li> </a>
 <hr>
 <h2>Education 🎓</h2>
 
