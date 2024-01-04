@@ -8,7 +8,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn, XGBoost
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Database:** SQL Server, MySQL
 - **Tools:** Excel, Metabase
 - **Others:** Regression, Classification, Time Series Analysis
