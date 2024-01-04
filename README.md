@@ -29,6 +29,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Currently Pursuing:** Data Science degree at Escola DNC
 - **Postgraduate:** People Management, SENAC - São Paulo
 - **Undergraduation:** Mechanical Engineering
+- **Exchange Program:** University of Arizona - Leadership and Engineering
 
 <hr>
 <h2>Experience 💼</h2> 
