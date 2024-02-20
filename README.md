@@ -14,14 +14,14 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Others:** Regression, Classification, Time Series Analysis
 <h2> Main Projects 🗠</h2>
 <h3> Data Visualization 📊</h3>
-<a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank"> <li>Microssoft Excel <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> </li>  </a>
-<a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li>Microssoft Power BI <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> </li> </a>
-<a href = "https://github.com/pedronatanaelfs/metabase_projects" target = "_blank" > <li>Metabase <img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> </li> </a>
+<a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank"> <li>Microssoft Excel - Sales Dashboard <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> </li>  </a>
+<a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li>Microssoft Power BI - Digital Marketing / E-commerce Dashboards <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> </li> </a>
+<a href = "https://github.com/pedronatanaelfs/metabase_projects" target = "_blank" > <li>Metabase - Multiple Dashboards for sales and education <img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> </li> </a>
 <hr>
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
 <a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li>Classification Model - Obesity level prediction</li> </a>
-<a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li>Regression Model</li> </a>
-<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li>Data Cleaning</li> </a>
+<a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li>Regression Model - Advertising ROI Prediction</li> </a>
+<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li>Data Cleaning - E-commerce RFM metrics</li> </a>
 <hr>
 <h2>Education 🎓</h2>
 
