@@ -20,8 +20,8 @@ Motivated data professional with experience in data analysis, machine learning, 
 <hr>
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
 <a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/5880/5880540.png" alt="classification" width="20" height="20" /> Classification Model - Obesity level prediction</li> </a>
-<a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li>Regression Model - Advertising ROI Prediction</li> </a>
-<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li>Data Cleaning - E-commerce RFM metrics</li> </a>
+<a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/7440/7440395.png" alt="regression" width="20" height="20" /> Regression Model - Advertising ROI Prediction</li> </a>
+<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li><img src="https://cdn-icons-png.flaticon.com/512/994/994928.png" alt="cleaning" width="20" height="20" /> Data Cleaning - E-commerce RFM metrics</li> </a>
 <hr>
 <h2>Education 🎓</h2>
 
