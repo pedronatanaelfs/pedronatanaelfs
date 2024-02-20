@@ -13,6 +13,8 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Tools:** Excel, Metabase
 - **Others:** Regression, Classification, Time Series Analysis
 <h2> Main Projects 🗠</h2>
+<h3> Data Cleaning 🧹 </h3>
+<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li><img src="https://e7.pngegg.com/pngimages/400/576/png-clipart-e-commerce-computer-icons-shopping-cart-software-retail-overseas-development-institute-angle-text.png" alt="cleaning" width="20" height="20" /> E-commerce RFM metrics</li> </a>
 <h3> Data Visualization 📊</h3>
 <a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank"> <li> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> Microssoft Excel - Sales Dashboard  </li>  </a>
 <a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> Microssoft Power BI - Digital Marketing / E-commerce Dashboards  </li> </a>
@@ -21,7 +23,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
 <a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/5880/5880540.png" alt="classification" width="20" height="20" /> Classification Model - Obesity level prediction</li> </a>
 <a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/7440/7440395.png" alt="regression" width="20" height="20" /> Regression Model - Advertising ROI Prediction</li> </a>
-<a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li><img src="https://cdn-icons-png.flaticon.com/512/994/994928.png" alt="cleaning" width="20" height="20" /> Data Cleaning - E-commerce RFM metrics</li> </a>
+
 <hr>
 <h2>Education 🎓</h2>
 
