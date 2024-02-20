@@ -19,7 +19,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 <a href = "https://github.com/pedronatanaelfs/metabase_projects" target = "_blank" > <li><img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> Metabase - Multiple Dashboards for sales and education  </li> </a>
 <hr>
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
-<a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li>Classification Model - Obesity level prediction</li> </a>
+<a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/5880/5880540.png" alt="classification" width="20" height="20" /> Classification Model - Obesity level prediction</li> </a>
 <a href = "https://github.com/pedronatanaelfs/regression_model" target = "_blank" > <li>Regression Model - Advertising ROI Prediction</li> </a>
 <a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li>Data Cleaning - E-commerce RFM metrics</li> </a>
 <hr>
