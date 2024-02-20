@@ -15,6 +15,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 <h2> Main Projects 🗠</h2>
 <h3> Data Cleaning 🧹 </h3>
 <a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li><img src="https://e7.pngegg.com/pngimages/400/576/png-clipart-e-commerce-computer-icons-shopping-cart-software-retail-overseas-development-institute-angle-text.png" alt="cleaning" width="20" height="20" /> E-commerce RFM metrics</li> </a>
+<hr>
 <h3> Data Visualization 📊</h3>
 <a href = "https://github.com/pedronatanaelfs/excel_projects/tree/main" target = "_blank"> <li> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> Microssoft Excel - Sales Dashboard  </li>  </a>
 <a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> Microssoft Power BI - Digital Marketing / E-commerce Dashboards  </li> </a>
