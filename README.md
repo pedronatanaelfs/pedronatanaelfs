@@ -21,6 +21,8 @@ Motivated data professional with experience in data analysis, machine learning, 
 <a href = "https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target = "_blank"> <li><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> Microssoft Power BI - Digital Marketing / E-commerce Dashboards  </li> </a>
 <a href = "https://github.com/pedronatanaelfs/metabase_projects" target = "_blank" > <li><img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> Metabase - Multiple Dashboards for sales and education  </li> </a>
 <a href = "https://github.com/pedronatanaelfs/bitish_airways_review" target = "_blank" > <li><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="perl" width="20" height="20" /> Tableau - British Airways Review  </li> </a>
+<a href = "https://github.com/pedronatanaelfs/sales_analysis_grafana_postgree" target = "_blank" > <li><img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-3629403-3032396.png" alt="perl" width="20" height="20" /> Grafana - Sales Dashboard with Grafana and PostgreSQL  </li> </a>
+
 <hr>
 <h3> Data Science <img src ="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt = "datascience" widhth = "20" height = "20" /> </h3>
 <a href = "https://obesityprediction.streamlit.app/" target = "_blank" > <li><img src="https://cdn-icons-png.flaticon.com/512/5880/5880540.png" alt="classification" width="20" height="20" /> Classification Model - Obesity level prediction</li> </a>
