@@ -7,11 +7,11 @@ Motivated data professional with experience in data analysis, machine learning, 
 
 - **Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-Learn, XGBoost
+- **Machine Learning:** Scikit-Learn, Regression, Classification, Clustering Time Series Analysis
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Grafana
 - **Database:** SQL Server, MySQL, PostgreSQL
-- **Tools:** Excel, Metabase
-- **Others:** Regression, Classification, Time Series Analysis
+- **Data Tools:** Excel, Metabase
+
 <h2> Main Projects 🗠</h2>
 <h3> Data Cleaning 🧹 </h3>
 <a href = "https://github.com/pedronatanaelfs/data_cleaning" target = "_blanck" > <li><img src="https://e7.pngegg.com/pngimages/400/576/png-clipart-e-commerce-computer-icons-shopping-cart-software-retail-overseas-development-institute-angle-text.png" alt="cleaning" width="20" height="20" /> E-commerce RFM metrics</li> </a>
