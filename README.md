@@ -12,7 +12,7 @@ Motivated data professional with experience in data analysis, machine learning, 
   - Supervised and Unsupervised Models ✅
   - Regression ✅, Classification ✅, Clustering ✅
   - Neural Networks ✅, Random Forest ✅, XGBoost ✅
-  - Generative AI ⏳, Optical Character Recognition (OCR) ⏳
+  - Generative AI ✅, Optical Character Recognition (OCR) ⏳
 - **Data Visualization:** Power BI ✅, Tableau ✅, Matplotlib ✅, Seaborn ✅, Grafana ✅
 - **Database:** SQL Server ✅, MySQL ✅, PostgreSQL ✅
 - **Data Tools:** Excel ✅, Metabase ✅
@@ -57,8 +57,15 @@ Motivated data professional with experience in data analysis, machine learning, 
 <a href="https://github.com/pedronatanaelfs/regression_model" target="_blank">
   <li><img src="https://cdn-icons-png.flaticon.com/512/7440/7440395.png" alt="regression" width="20" height="20" /> Regression Model - Advertising ROI Prediction</li>
 </a>
-<!-- Placeholder for new projects -->
-<li><i>New project placeholder for Optimization, MLOps, Generative AI, etc.</i></li>
+
+<hr>
+
+<h3> Generative AI and LLM Integration <img src="https://static.vecteezy.com/system/resources/previews/023/783/293/non_2x/artificial-intelligence-generated-icon-ai-sign-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" alt="google-ai" width="20" height="20" /> </h3>
+<a href="https://github.com/pedronatanaelfs/ecommerce_llm" target="_blank">
+  <li><img src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" alt="google-ai" width="20" height="20" /> E-commerce Sales Dashboard with LLM Integration</li>
+</a>
+
+
 <hr>
 
 <h2>Education 🎓</h2>
