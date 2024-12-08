@@ -62,7 +62,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 
 <h3> Generative AI and LLM Integration <img src="https://static.vecteezy.com/system/resources/previews/023/783/293/non_2x/artificial-intelligence-generated-icon-ai-sign-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" alt="google-ai" width="20" height="20" /> </h3>
 <a href="https://github.com/pedronatanaelfs/ecommerce_llm" target="_blank">
-  <li><img src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" alt="google-ai" width="20" height="20" /> E-commerce Sales Dashboard with LLM Integration</li>
+  <li><img src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" alt="google-ai" width="20" height="20" /> E-commerce Sales Dashboard with Google LLM Integration</li>
 </a>
 
 
