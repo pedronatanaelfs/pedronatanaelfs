@@ -21,7 +21,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 - **Optimization and Operations Research:** Optimization Algorithms ⏳
 - **Big Data Tools:** Spark ⏳, Hadoop ⏳
 - **APIs:** API integration and development ✅
-- **Statistical Analysis:** Hypothesis Testing ⏳, Probability Distributions ⏳
+- **Statistical Analysis:** Hypothesis Testing ✅, Probability Distributions ⏳
 - **Architectural Design:** Data pipelines for ingestion, cleaning, and transformation ⏳
 
 <h2> Main Projects 🗠</h2>
