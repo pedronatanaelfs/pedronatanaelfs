@@ -80,6 +80,14 @@ Motivated data professional with experience in data analysis, machine learning, 
 
 <h2>Experience 💼</h2> 
 
+- **Code Expert, Outlier (Latam Coders):**
+  - LLM Training Support: Contribute to the development of large language models by generating and evaluating code-based data.
+  - Prompt Engineering: Write and review programming prompts to ensure clear instructions and meaningful tasks for AI training.
+  - Output Validation: Validate model outputs to confirm correctness, coherence, and technical precision.
+  - Technical Accuracy: Ensure high-quality standards in coding tasks by verifying syntax, logic, and expected behavior across various programming languages.
+  - Task Design: Help design diverse and challenging tasks to enhance the AI’s reasoning and problem-solving capabilities.
+  - Collaboration & Feedback: Work asynchronously with a distributed team to improve instructions, refine evaluation guidelines, and provide feedback on model behavior.
+
 - **Operations Analyst, Cloudwalk:**
   - Monitor System Performance: Continuously track the performance and availability of various company products including Sales, App, Web, Issuing, Lending, POS, APIs, Blockchain, and Database Infrastructure.
   - Incident Management: Detect, analyze, and respond to incidents to ensure minimal disruption to services.
