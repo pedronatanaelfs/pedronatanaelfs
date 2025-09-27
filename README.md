@@ -6,6 +6,10 @@ Motivated data professional with experience in data analysis, machine learning, 
 
 <h2>Skills 🚀</h2> 
 
+- Watch my latest vídeo on YouTube explaning the Community Detention Algorithm (Leiden): https://youtu.be/hIQM0XLyQiQ?si=9gIhqNZIootXHywc
+
+
+
 - **Languages:** Python ✅, SQL ✅, R ⏳
 - **Data Analysis:** Pandas ✅, NumPy ✅, Advanced Statistical Techniques ⏳
 - **Machine Learning:** 
