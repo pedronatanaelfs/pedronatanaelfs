@@ -34,7 +34,7 @@ Deliverables: Model card, evaluation notebook, short insights report (PDF)
 
 ### 2) Retention and Churn Risk — Cohorts and Early Warning Scoring
 
-<img width="768" height="229" alt="retention_and_churn" src="https://github.com/user-attachments/assets/8f24a295-28c3-4ef6-a717-da3bd0d2fbfd" />
+<img width="768" height="229" alt="retention_and_churn" src="https://github.com/user-attachments/assets/f74dee7f-8960-41d5-86de-e7fd60bc819b" />
 
 Goal: Build retention cohorts (D1/D7/D30), define churn, and score churn risk.  
 
@@ -46,7 +46,7 @@ Repo: (WIP)
 
 ### 3) Experimentation — A/B Testing That Holds Up
 
-<img width="768" height="229" alt="experimentation" src="https://github.com/user-attachments/assets/cda75152-ce00-4a4f-8686-adb990ed1cb8" />
+<img width="768" height="229" alt="experimentation" src="https://github.com/user-attachments/assets/d265e951-3b69-4336-b9eb-f809880bbb7b" />
 
 Goal: Evaluate experiment impact with confidence intervals, SRM checks, and guardrails.  
 
