@@ -1,130 +1,107 @@
-<h1>Hello World! 🌎</h1>
+# Hi, I’m Pedro Silva
+Data Scientist focused on gaming analytics: gameplay insights, retention, monetization, experimentation, and player voice.
 
-<h2>Who am I? 🤔</h2>
-Motivated data professional with experience in data analysis, machine learning, and leadership. My expertise lies in Python (Pandas and Scikit-Learn), Machine Learning, Power BI, Excel, and SQL. Former Sales Manager at Ambev, where I successfully led teams and implemented strategies to drive sales growth. Currently pursuing a Data Science degree at Escola DNC, I also hold a Postgraduate degree in People Management from SENAC - São Paulo and a Bachelor's degree in Mechanical Engineering. Currently pursuing a Master's degree in Computer Engineering.
-<hr>
+Location: Brazil  
+Email: YOUR_EMAIL  
+LinkedIn: YOUR_LINKEDIN  
+Portfolio: YOUR_PORTFOLIO
 
-<h2>Skills 🚀</h2> 
+---
 
-- Watch my latest vídeo on YouTube explaning the Community Detention Algorithm (Leiden): https://youtu.be/hIQM0XLyQiQ?si=9gIhqNZIootXHywc
+## What I do
+I build end-to-end data science projects that mirror how game studios work with data:
+- Gameplay and balance analytics (match outcomes, skill signals, meta drivers)
+- Product analytics (cohorts, retention, churn risk)
+- Monetization analytics (segmentation, value/KPI movement)
+- Experimentation (A/B testing, lift estimation, guardrails)
+- Player voice (NLP on reviews, drivers of sentiment)
+- Community analytics (viewer–creator dynamics, engagement signals)
 
+---
 
+## Featured portfolio projects (Game Data Science)
 
-- **Languages:** Python ✅, SQL ✅, R ⏳
-- **Data Analysis:** Pandas ✅, NumPy ✅, Advanced Statistical Techniques ⏳
-- **Machine Learning:** 
-  - Supervised and Unsupervised Models ✅
-  - Regression ✅, Classification ✅, Clustering ✅
-  - Neural Networks ✅, Random Forest ✅, XGBoost ✅
-  - Generative AI ✅, Optical Character Recognition (OCR) ⏳
-- **Data Visualization:** Power BI ✅, Tableau ✅, Matplotlib ✅, Seaborn ✅, Grafana ✅
-- **Database:** SQL Server ✅, MySQL ✅, PostgreSQL ✅
-- **Data Tools:** Excel ✅, Metabase ✅
-- **Geospatial Data:** Geospatial Analysis and Tools (e.g., GeoPandas) ⏳
-- **MLOps:** Azure Machine Learning ⏳, Databricks ⏳
-- **Optimization and Operations Research:** Optimization Algorithms ⏳
-- **Big Data Tools:** Spark ⏳, Hadoop ⏳
-- **APIs:** API integration and development ✅
-- **Statistical Analysis:** Hypothesis Testing ✅, Probability Distributions ⏳
-- **Architectural Design:** Data pipelines for ingestion, cleaning, and transformation ⏳
+### 1) Gameplay Outcome Modeling — Early Game to Win Probability
+Goal: Predict match outcome using early-match signals and explain what drives wins.  
+Skills: Feature engineering, classification, calibration, interpretability (SHAP), insight writing  
 
-<h2> Main Projects 🗠</h2>
+Dataset: League of Legends (Kaggle)  
 
-<h3> Data Cleaning 🧹 </h3>
-<a href="https://github.com/pedronatanaelfs/data_cleaning" target="_blank">
-  <li><img src="https://e7.pngegg.com/pngimages/400/576/png-clipart-e-commerce-computer-icons-shopping-cart-software-retail-overseas-development-institute-angle-text.png" alt="cleaning" width="20" height="20" /> E-commerce RFM metrics</li>
-</a>
-<hr>
+Repo: (WIP)  
+Deliverables: Model card, evaluation notebook, short insights report (PDF)
 
-<h3> Data Visualization 📊</h3>
-<a href="https://github.com/pedronatanaelfs/excel_projects/tree/main" target="_blank">
-  <li><img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" alt="excel" width="20" height="20" /> Microsoft Excel - Sales Dashboard</li>
-</a>
-<a href="https://github.com/pedronatanaelfs/power_BI_projects/tree/main" target="_blank">
-  <li><img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="powerBI" width="20" height="20" /> Microsoft Power BI - Digital Marketing / E-commerce Dashboards</li>
-</a>
-<a href="https://github.com/pedronatanaelfs/metabase_projects" target="_blank">
-  <li><img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png" alt="perl" width="20" height="20" /> Metabase - Multiple Dashboards for sales and education</li>
-</a>
-<a href="https://github.com/pedronatanaelfs/bitish_airways_review" target="_blank">
-  <li><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="perl" width="20" height="20" /> Tableau - British Airways Review</li>
-</a>
-<a href="https://github.com/pedronatanaelfs/sales_analysis_grafana_postgree" target="_blank">
-  <li><img src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-3629403-3032396.png" alt="perl" width="20" height="20" /> Grafana - Sales Dashboard with Grafana and PostgreSQL</li>
-</a>
-<hr>
+### 2) Retention and Churn Risk — Cohorts and Early Warning Scoring
 
-<h3> Data Science <img src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt="datascience" width="20" height="20" /> </h3>
-<a href="https://obesityprediction.streamlit.app/" target="_blank">
-  <li><img src="https://cdn-icons-png.flaticon.com/512/5880/5880540.png" alt="classification" width="20" height="20" /> Classification Model - Obesity level prediction</li>
-</a>
-<a href="https://github.com/pedronatanaelfs/regression_model" target="_blank">
-  <li><img src="https://cdn-icons-png.flaticon.com/512/7440/7440395.png" alt="regression" width="20" height="20" /> Regression Model - Advertising ROI Prediction</li>
-</a>
+Goal: Build retention cohorts (D1/D7/D30), define churn, and score churn risk.  
 
-<hr>
+Skills: Cohort analysis, retention curves, segmentation, model evaluation  
 
-<h3> Generative AI and LLM Integration <img src="https://static.vecteezy.com/system/resources/previews/023/783/293/non_2x/artificial-intelligence-generated-icon-ai-sign-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" alt="google-ai" width="20" height="20" /> </h3>
-<a href="https://github.com/pedronatanaelfs/ecommerce_llm" target="_blank">
-  <li><img src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" alt="google-ai" width="20" height="20" /> E-commerce Sales Dashboard with Google LLM Integration</li>
-</a>
+Dataset: Mobile analytics (Kaggle)  
 
+Repo: (WIP)
 
-<hr>
+### 3) Experimentation — A/B Testing That Holds Up
 
-<h2>Education 🎓</h2>
+Goal: Evaluate experiment impact with confidence intervals, SRM checks, and guardrails.  
 
-- **Master's Degree:** Computer Engineering (in progress)
-- **Training Course:** Data Science Full Stack at Escola DNC
-- **Postgraduate:** People Management, SENAC - São Paulo
-- **Undergraduate:** Mechanical Engineering - Federal Institute
-- **Exchange Program:** University of Arizona - Leadership and Engineering
+Skills: Hypothesis design, effect size estimation, slicing, variance reduction (optional)  
 
-<hr>
+Dataset: Mobile analytics (Kaggle)  
 
-<h2>Experience 💼</h2> 
+Repo: (WIP)
 
-- **Code Expert, Outlier (Latam Coders):**
-  - LLM Training Support: Contribute to the development of large language models by generating and evaluating code-based data.
-  - Prompt Engineering: Write and review programming prompts to ensure clear instructions and meaningful tasks for AI training.
-  - Output Validation: Validate model outputs to confirm correctness, coherence, and technical precision.
-  - Technical Accuracy: Ensure high-quality standards in coding tasks by verifying syntax, logic, and expected behavior across various programming languages.
-  - Task Design: Help design diverse and challenging tasks to enhance the AI’s reasoning and problem-solving capabilities.
-  - Collaboration & Feedback: Work asynchronously with a distributed team to improve instructions, refine evaluation guidelines, and provide feedback on model behavior.
+### 4) Player Voice (NLP) — What Players Complain About and Why It Matters
 
-- **Operations Analyst, Cloudwalk:**
-  - Monitor System Performance: Continuously track the performance and availability of various company products including Sales, App, Web, Issuing, Lending, POS, APIs, Blockchain, and Database Infrastructure.
-  - Incident Management: Detect, analyze, and respond to incidents to ensure minimal disruption to services.
-  - Data Analysis: Analyze system data to identify trends, anomalies, and potential issues to proactively address problems.
-  - Collaboration: Work closely with development and operations teams to resolve issues and improve system reliability.
-  - Reporting: Generate regular reports on system performance, incidents, and other relevant metrics for stakeholders.
-  - Continuous Improvement: Participate in the continuous improvement of monitoring processes and tools to enhance efficiency and effectiveness.
+Goal: Use topic modeling + sentiment analysis on reviews to identify the biggest drivers of negative feedback.  
 
-- **Sales Manager, Ambev:**
-  - Led and motivated teams to implement successful sales strategies.
-  - Analyzed sales data to identify opportunities and drive business decisions.
+Skills: NLP preprocessing, topic modeling/embeddings, interpretable modeling, trend analysis  
 
-- **Sales Supervisor, Ambev:**
-  - Leading a team of 5 Sales Representatives and 1 Promoter, I was responsible for creating new service sectors in three cities in the interior of Pernambuco. I carried out the team restructuring and optimized visit routes in the new service areas.
- 
-- **Data Analyst, Ambev:**
-  - I developed follow-ups, analyses, and detailed information, including the performance of sales teams, share analysis, volume, and productivity indicators. I conducted the first qualification of the Caruaru Distribution Center (CDD) in the Ambev Excellence System (SPO) using Excel.
- 
-- **Data Analytics Intern, Ambev:**
-  - I evaluated pricing strategies, collected and analyzed market data, identified trends, and proposed solutions to improve the company's sales performance.
- 
-<hr>
+Dataset: Steam reviews (Kaggle)  
 
-<h2>Let's Connect! 🌐</h2> 
+Repo: (WIP)
 
-- LinkedIn: https://www.linkedin.com/in/pedro-natanael/
-- Email: pedronatanaelfs@gmail.com
+### 5) Community Analytics — Twitch Interaction Graphs and Engagement
 
-Feel free to reach out for collaboration, discussions, or any exciting data projects! 🚀
+Goal: Model viewer–streamer interactions and build community health metrics and segments.  
 
+Skills: Graph analytics, community detection, time-based features, forecasting (optional)  
 
+Dataset: Twitch interactions (Kaggle)  
 
-<!---
-pedronatanaelfs/pedronatanaelfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Repo: WIP
+
+### 6) Live Ops Reporting — Monthly Game Health Dashboard
+
+Goal: Produce a monthly report with KPI definitions and a reproducible pipeline.  
+
+Skills: Metrics design, data modeling, pipelines, BI-style reporting  
+
+Data: Derived from the projects above  
+
+Repo: (WIP)  
+
+Deliverables: `metrics.md`, `report.pdf`, dashboard screenshots
+
+---
+
+## Toolbox
+Python: pandas, numpy, scikit-learn, statsmodels  
+NLP: spaCy, transformers (as needed), topic modeling  
+Experimentation: hypothesis testing, confidence intervals, guardrails, SRM checks  
+Data: SQL, data modeling, reproducible pipelines  
+Visualization: notebooks and BI-style reports
+
+---
+
+## How I structure projects
+Most repos include:
+- README (problem → data → method → results → decision)
+- `metrics.md` with KPI definitions
+- `notebooks/` (EDA → modeling → insights)
+- `src/` for reusable code
+- a short `report.pdf`
+- `requirements.txt` and reproducible runs
+
+---
+
+If you’d like to talk: pedronatanaelfs@gmail.com
