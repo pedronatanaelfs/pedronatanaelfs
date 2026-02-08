@@ -46,7 +46,7 @@ Repo: (WIP)
 
 ### 3) Experimentation — A/B Testing That Holds Up
 
-<img width="1536" height="589" alt="experimentation" src="https://github.com/user-attachments/assets/325b6ab6-fd0a-412d-992e-fa53afa70133" />
+<img width="768" height="229" alt="experimentation" src="https://github.com/user-attachments/assets/325b6ab6-fd0a-412d-992e-fa53afa70133" />
 
 Goal: Evaluate experiment impact with confidence intervals, SRM checks, and guardrails.  
 
