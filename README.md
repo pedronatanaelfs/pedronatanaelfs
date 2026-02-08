@@ -22,7 +22,7 @@ I build end-to-end data science projects that mirror how game studios work with 
 ## Featured portfolio projects (Game Data Science)
 
 ### 1) Gameplay Outcome Modeling — Early Game to Win Probability
-<img width="153.6" height="45.8" alt="gameplay_outcome" src="https://github.com/user-attachments/assets/020c7ef1-ec07-436d-8b47-103d23b875a0" />
+<img width="768" height="229" alt="gameplay_outcome" src="https://github.com/user-attachments/assets/020c7ef1-ec07-436d-8b47-103d23b875a0" />
 
 Goal: Predict match outcome using early-match signals and explain what drives wins.  
 Skills: Feature engineering, classification, calibration, interpretability (SHAP), insight writing  
