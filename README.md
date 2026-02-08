@@ -2,9 +2,9 @@
 Data Scientist focused on gaming analytics: gameplay insights, retention, monetization, experimentation, and player voice.
 
 Location: Brazil  
-Email: YOUR_EMAIL  
-LinkedIn: YOUR_LINKEDIN  
-Portfolio: YOUR_PORTFOLIO
+Email: pedronatanaelfs@gmail.com  
+LinkedIn: https://www.linkedin.com/in/pedro-natanael/  
+Portfolio: https://pedronatanaelfs.github.io/game.science/
 
 ---
 
