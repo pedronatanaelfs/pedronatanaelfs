@@ -2,7 +2,7 @@
 
 ## About Me
 
-Motivated data professional with experience in data analysis, machine learning, and leadership. My expertise lies in Python (Pandas and Scikit-Learn), Machine Learning, Power BI, Excel, and SQL. Former Sales Manager at Ambev, where I successfully led teams and implemented strategies to drive sales growth. Currently pursuing a Data Science degree at Escola DNC, I also hold a Postgraduate degree in People Management from SENAC - São Paulo and a Bachelor's degree in Mechanical Engineering. Currently pursuing a Master's degree in Computer Engineering.
+Data professional with experience in analytics, machine learning, business operations, and team leadership. My background combines hands-on work in data products, BI, automation, and AI-related solutions, supported by academic training in computer engineering and practical experience across technology and commercial environments.
 
 ---
 
@@ -63,7 +63,7 @@ Motivated data professional with experience in data analysis, machine learning, 
 
 ## Education
 
-- ** PhD: ** Computer Engineering (In Progress) - University of Pernambuco, Brazil
+- **PhD:** Computer Engineering (In Progress) - University of Pernambuco, Brazil
 - **Master's Degree:** Computer Engineering - University of Pernambuco, Brazil
 - **Training Course:** Data Science Full Stack at Escola DNC
 - **Postgraduate:** People Management, SENAC - São Paulo
